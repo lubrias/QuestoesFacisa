@@ -2,3 +2,8 @@
 .idea/
 out/
 *.iml
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
