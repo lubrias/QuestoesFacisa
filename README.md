@@ -8,9 +8,17 @@
 
 
 ***📍 Questão 2 -  Relação de Loja e Produto (Aluno: Walter Luan).***
+
+
 ***📍 Questão 4 - Clínica Veterinária (Aluno: Pedro Rodrigues).***
+
+
 ***📍 Questão 5 - Cadastro de clientes por CPF (Aluno: Thayslan Costa).***
+
+
 ***📍 Questão 6 - Estoque de produtos por Código (Aluno: Ramon Trindade).***
+
+
 ***📍 Questão 8 - Agenda de Contatos (ALuno: João Vitor Vicente).***
 
 
