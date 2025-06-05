@@ -15,18 +15,27 @@
 
 
 <h1 align="center"> Ordem das Pastas </h1>
-**À primeira vista, haverão algumas pastas diferentes na Tela Principal: ![Uploading image.png…]()
-**
+**À primeira vista, haverão algumas pastas diferentes na Tela Principal:**
+![image](https://github.com/user-attachments/assets/945a9e5c-0370-4600-967b-36ac2d33a4c6)
+
 
 :construction: Atenção! :construction:
 
 `Quatro das cinco questões(4/5) que enviamos, estão na pasta "src"`
 
+
 *A exceção é a questão 4 - Clinica/Veterinária, que aparece como a segunda pasta.*
 
 **Se deseja ver as outras questões, siga esse caminho: **
 
+
 `src` --> `Estoque de produtos/Q6` (referente à questão 6) ou
+
+
 `src` --> `Questao2` (referente à questão 2) ou
+
+
 `src` --> `Questao5` (referente à questão 5) ou
+
+
 `src` --> `AgenciaContatoss` --> `questao08/src` (referente à questão 8).
