@@ -1,0 +1,9 @@
+# Ignora pastas de IDE e arquivos de build
+.idea/
+out/
+*.iml
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
