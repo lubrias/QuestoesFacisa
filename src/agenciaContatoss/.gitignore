@@ -1,0 +1,4 @@
+# Ignora pastas de IDE e arquivos de build
+.idea/
+out/
+*.iml

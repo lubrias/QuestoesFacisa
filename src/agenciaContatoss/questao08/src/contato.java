@@ -1,5 +1,3 @@
-package agenciaContatoss;
-
 public class contato {
     private String nome;
     private String telefone;

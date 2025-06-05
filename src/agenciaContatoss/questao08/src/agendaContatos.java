@@ -1,7 +1,6 @@
-package agenciaContatoss;
-
 import java.util.HashMap;
-import java.util.Map;
+import java.util.*;
+
 
 public class agendaContatos {
     private HashMap<String, contato > contatos;
