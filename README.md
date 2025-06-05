@@ -16,7 +16,7 @@
 
 <h1 align="center"> Ordem das Pastas </h1>
 **À primeira vista, haverão algumas pastas diferentes na Tela Principal:**
-![image](https://github.com/user-attachments/assets/945a9e5c-0370-4600-967b-36ac2d33a4c6)
+(https://github.com/user-attachments/assets/945a9e5c-0370-4600-967b-36ac2d33a4c6)
 
 
 :construction: Atenção! :construction:
