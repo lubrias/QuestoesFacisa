@@ -4,3 +4,7 @@
 
 
 **A maioria das questões estão dentro da pasta src, com exceção do exercício "clinica" que aparece separado, fora do src.**
+
+
+
+__**📍 Questão 2 -  Relação de Loja e Produto (Aluno: Walter Luan).**__
